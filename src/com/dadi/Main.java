@@ -18,5 +18,6 @@ public class Main {
         thePc.getMonitor().drowPixelAt(1500,1200,"red");
         thePc.getMotherboard().loadProgram("widows 1.0");
         thePc.getTheCase().pressPowerButton();
+        System.out.println("dadi");
     }
 }
